@@ -1,0 +1,9 @@
+<resources>
+    <string name="ListaDeProdutos">Orgs</string>
+    <string name="salada_de_frutas">Salada de Frutas</string>
+    <string name="valor">Valor</string>
+    <string name="salvar">Salvar</string>
+    <string name="descri_o">Descrição</string>
+    <string name="nome">Nome</string>
+    <string name="todo">TODO</string>
+</resources>
