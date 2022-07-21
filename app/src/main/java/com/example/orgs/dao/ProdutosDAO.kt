@@ -18,7 +18,7 @@ class ProdutosDAO {
             Produto (
                 nome = "Cesta de Frutas",
                 descricao = "Laranja,Maçãs e uva",
-                valor = BigDecimal("19.83")
+                valor = BigDecimal("20.00")
             )
         )
     }

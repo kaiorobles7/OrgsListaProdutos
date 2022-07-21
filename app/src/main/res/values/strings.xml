@@ -6,4 +6,5 @@
     <string name="descri_o">Descrição</string>
     <string name="nome">Nome</string>
     <string name="todo">TODO</string>
+    <string name="carregar">Carregar</string>
 </resources>
